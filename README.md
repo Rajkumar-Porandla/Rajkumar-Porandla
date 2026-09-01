@@ -99,6 +99,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎯 [**FocusDrop**](https://github.com/Rajkumar-Porandla/FocusDrop) | Android app that blocks YouTube Shorts & Instagram Reels via Accessibility Service + Local VPN. | `Kotlin` `Android SDK` `Hilt` `DataStore` |
+| ⚡ [**QuickShare**](https://github.com/Rajkumar-Porandla/QuickShare) <br/> 🌐 [**Live App**](https://dexpop.vercel.app) | Instant, lightweight peer text & file sharing web platform. | `JavaScript` `Node.js` `Express` `Vercel` |
 | 🗺️ [**GMaps Pathfinding Visualizer**](https://github.com/Rajkumar-Porandla/gmaps-pathfinding-visualizer) | Interactive pathfinding algorithm visualizer plotted over real-world Google Maps coordinates. | `TypeScript` `React` `Google Maps API` |
 | 🐝 [**Firefly Spam Classification**](https://github.com/Rajkumar-Porandla/Firefly-Algo-Spam-Classification) | Email/SMS spam classifier utilizing the Nature-Inspired Firefly Optimization Algorithm. | `Python` `Machine Learning` `Optimization` |
 | 🧠 [**Memoraid**](https://github.com/Rajkumar-Porandla/Memoraid) | Spaced repetition memory platform for accelerated active-recall learning. | `TypeScript` `Web` |
