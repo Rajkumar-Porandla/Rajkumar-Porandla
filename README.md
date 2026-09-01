@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Raj%20Kumar%20Porandla%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20(AI/ML)%20%7C%20Android%20and%20Full-Stack%20Developer%20%7C%20AI/ML%20Builder&descFontSize=17&descAlignY=68&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajkumar%20Porandla%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20(AI/ML)%20%7C%20Android%20and%20Full-Stack%20Developer%20%7C%20AI/ML%20Builder&descFontSize=17&descAlignY=68&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,12 +9,19 @@
   <a href="https://www.linkedin.com/in/raj-kumar-porandla3025/">
     <img src="https://img.shields.io/badge/LinkedIn-Rajkumar--Porandla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://instagram.com/rkcreates07">
+    <img src="https://img.shields.io/badge/Instagram-%40rkcreates07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://github.com/Rajkumar-Porandla">
     <img src="https://img.shields.io/badge/GitHub-Rajkumar--Porandla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br/>
+
+<p align="center"><i>✨ Currently building in public — follow along for the process, not just the highlight reel.</i></p>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -119,6 +126,15 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Rajkumar-Porandla&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
 </div>
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [in/raj-kumar-porandla3025](https://www.linkedin.com/in/raj-kumar-porandla3025/)
+- 📩 **Email:** [rajkumarporandla07@gmail.com](mailto:rajkumarporandla07@gmail.com)
+- 🎬 **Instagram:** [@rkcreates07](https://instagram.com/rkcreates07)
+- 🐙 **GitHub:** [@Rajkumar-Porandla](https://github.com/Rajkumar-Porandla)
 
 ---
 
