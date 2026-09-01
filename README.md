@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajkumar%20Porandla%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Android%20%26%20Full-Stack%20Developer%20%7C%20AI/ML%20Builder&descFontSize=17&descAlignY=68&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajkumar%20Porandla%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20(AI/ML)%20%7C%20Android%20and%20Full-Stack%20Developer%20%7C%20AI/ML%20Builder&descFontSize=17&descAlignY=68&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   <a href="mailto:rajkumarporandla07@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajkumarporandla07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/raj-kumar-porandla3025/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajkumar--Porandla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rajkumar-Porandla">
     <img src="https://img.shields.io/badge/GitHub-Rajkumar--Porandla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -106,12 +109,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkumar-Porandla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rajkumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-Porandla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajkumar-Porandla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rajkumar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajkumar-Porandla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar-Porandla&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=Rajkumar-Porandla&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
 </div>
 
 ---
