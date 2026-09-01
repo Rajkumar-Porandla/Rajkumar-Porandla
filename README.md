@@ -109,12 +109,14 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajkumar-Porandla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rajkumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajkumar-Porandla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-Porandla&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkumar-Porandla&theme=radical" alt="Repos Per Language" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajkumar-Porandla&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=Rajkumar-Porandla&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
 </div>
 
 ---
