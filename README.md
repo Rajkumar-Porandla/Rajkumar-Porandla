@@ -137,6 +137,23 @@
 - 🐙 **GitHub:** [@Rajkumar-Porandla](https://github.com/Rajkumar-Porandla)
 
 ---
+import { BreakoutRenderer } from 'pacman-contribution-graph';
+
+const renderer = new BreakoutRenderer({
+	username: 'your_username',
+	platform: 'github', // or 'gitlab'
+	gameTheme: 'github-dark', // 'github', 'github-dark', 'gitlab', or 'gitlab-dark'
+	svgCallback: (svg) => {
+		document.getElementById('output').innerHTML = svg;
+	},
+	gameOverCallback: () => {
+		console.log('Game over!');
+	},
+	pointsIncreasedCallback: (points) => {
+		console.log('Score:', points);
+	}
+});
+renderer.start();
 
 <div align="center">
   <sub>Designed & built with 💙 by Rajkumar Porandla</sub>
