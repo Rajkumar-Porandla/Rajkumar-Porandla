@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajkumar%20Porandla%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20(AI/ML)%20%7C%20Android%20and%20Full-Stack%20Developer%20%7C%20AI/ML%20Builder&descFontSize=17&descAlignY=68&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajkumar%20Porandla%20👋&fontSize=40&fontCo[...]
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 <br/>
 
-> **[FocusDrop](https://github.com/Rajkumar-Porandla/FocusDrop)** is an open-source Android app engineered to help users reclaim their attention by blocking addictive short-form content (YouTube Shorts & Instagram Reels) directly on-device with zero cloud dependencies.
+> **[FocusDrop](https://github.com/Rajkumar-Porandla/FocusDrop)** is an open-source Android app engineered to help users reclaim their attention by blocking addictive short-form content (YouTube Short[...] 
 
 - 🛡️ **Smart Accessibility Service:** Real-time UI hierarchy inspection with non-intrusive instant overlays over Shorts players and recommendation shelves.
 - 🚫 **Instagram Reels & Post Feed Blocker:** Configurable filters for feed addiction control.
@@ -105,10 +105,10 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎯 [**FocusDrop**](https://github.com/Rajkumar-Porandla/FocusDrop) | Android app that blocks YouTube Shorts & Instagram Reels via Accessibility Service + Local VPN. | `Kotlin` `Android SDK` `Hilt` `DataStore` |
-| ⚡ [**QuickShare**](https://github.com/Rajkumar-Porandla/QuickShare) <br/> 🌐 [**Live App**](https://dexpop.vercel.app) | Instant, lightweight peer text & file sharing web platform. | `JavaScript` `Node.js` `Express` `Vercel` |
-| 🗺️ [**GMaps Pathfinding Visualizer**](https://github.com/Rajkumar-Porandla/gmaps-pathfinding-visualizer) | Interactive pathfinding algorithm visualizer plotted over real-world Google Maps coordinates. | `TypeScript` `React` `Google Maps API` |
-| 🐝 [**Firefly Spam Classification**](https://github.com/Rajkumar-Porandla/Firefly-Algo-Spam-Classification) | Email/SMS spam classifier utilizing the Nature-Inspired Firefly Optimization Algorithm. | `Python` `Machine Learning` `Optimization` |
+| 🎯 [**FocusDrop**](https://github.com/Rajkumar-Porandla/FocusDrop) | Android app that blocks YouTube Shorts & Instagram Reels via Accessibility Service + Local VPN. | `Kotlin` `Android SDK` `Hilt`[...] 
+| ⚡ [**QuickShare**](https://github.com/Rajkumar-Porandla/QuickShare) <br/> 🌐 [**Live App**](https://dexpop.vercel.app) | Instant, lightweight peer text & file sharing web platform. | `JavaScript[...]`
+| 🗺️ [**GMaps Pathfinding Visualizer**](https://github.com/Rajkumar-Porandla/gmaps-pathfinding-visualizer) | Interactive pathfinding algorithm visualizer plotted over real-world Google Maps coord[...]
+| 🐝 [**Firefly Spam Classification**](https://github.com/Rajkumar-Porandla/Firefly-Algo-Spam-Classification) | Email/SMS spam classifier utilizing the Nature-Inspired Firefly Optimization Algorithm[...]
 | 🧠 [**Memoraid**](https://github.com/Rajkumar-Porandla/Memoraid) | Spaced repetition memory platform for accelerated active-recall learning. | `TypeScript` `Web` |
 | 🌌 [**ApnaSpace**](https://github.com/Rajkumar-Porandla/apnaspace) | Modern collaborative web platform designed for community sharing. | `JavaScript` `Frontend` |
 
@@ -138,6 +138,67 @@
 
 ---
 
+## Interactive Contribution Game Preview
+
+<div align="center">
+  <h3>Interactive Contribution Game (live preview)</h3>
+  <div id="output" style="width:100%;max-width:720px;margin: 12px auto; background: #0d1117; border-radius: 8px;
+      padding: 12px; display:flex; align-items:center; justify-content:center; min-height:200px; color:#fff;">Preview (host on Pages)</div>
+  <p><em>Note: GitHub README pages do not run JavaScript. To make this interactive, host the demo on GitHub Pages or use an online sandbox (Codesandbox/Stackblitz). Below is a ready-to-run snippet you can paste into an HTML file for GitHub Pages.</em></p>
+  <p><strong>Quick options:</strong> <a href="https://codesandbox.io/">Open in Codesandbox</a> • <a href="https://stackblitz.com/">Open in Stackblitz</a></p>
+</div>
+
+### How to host the interactive preview (minimum steps)
+
+1. Create a file `demo/index.html` in this repo (or in a new gh-pages branch).
+2. Paste the example below into `demo/index.html`.
+3. Enable GitHub Pages in the repository settings and point it at the `main` branch / `docs` or `gh-pages` branch where `demo/index.html` lives.
+4. Open the published URL (https://<your-username>.github.io/<repo-name>/demo) to see the interactive preview.
+
+Example demo (index.html)
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Contribution Breakout Demo</title>
+    <style>body{background:#0d1117;color:#c9d1d9;font-family:Inter,system-ui,Arial,Helvetica,sans-serif;padding:24px}</style>
+  </head>
+  <body>
+    <h2>Contribution Breakout Demo</h2>
+    <div id="output" style="width:100%;max-width:920px;height:420px;background:#0b1220;border-radius:8px;padding:12px"></div>
+
+    <script type="module">
+      // Import from unpkg so this works without bundling
+      import { BreakoutRenderer } from 'https://unpkg.com/pacman-contribution-graph@latest/dist/index.mjs';
+
+      const renderer = new BreakoutRenderer({
+        username: 'Rajkumar-Porandla',
+        platform: 'github',
+        gameTheme: 'github-dark',
+        svgCallback: (svg) => {
+          document.getElementById('output').innerHTML = svg;
+        },
+        gameOverCallback: () => {
+          console.log('Game over!');
+        },
+        pointsIncreasedCallback: (points) => {
+          console.log('Score:', points);
+        }
+      });
+      renderer.start();
+    </script>
+  </body>
+</html>
+```
+
+Notes:
+- If you prefer an embedded sandbox, create a new Codesandbox/Stackblitz, paste the same `index.html`, and link to it from the README.
+- If you'd like, I can create the `demo/index.html` and enable the GitHub Pages setup steps for you (I will add the file to the repo). Just tell me if you want me to add the demo file now.
+
+---
 
 <div align="center">
   <sub>Designed & built with 💙 by Rajkumar Porandla</sub>
