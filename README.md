@@ -15,6 +15,9 @@
   <a href="https://github.com/Rajkumar-Porandla">
     <img src="https://img.shields.io/badge/GitHub-Rajkumar--Porandla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://raj-kumar-portfolio-main.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
@@ -26,6 +29,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Lovely Professional University** (Class of 2028).
+- 🌐 **Portfolio:** 🌐 [raj-kumar-portfolio-main.vercel.app](https://raj-kumar-portfolio-main.vercel.app)
 - 🎯 **Current Focus:** Developing [**FocusDrop**](https://github.com/Rajkumar-Porandla/FocusDrop) — an on-device Android distraction blocker for YouTube Shorts & Instagram Reels.
 - 💡 **Passions:** Android Architecture, Deep Learning / AI Applications, Algorithmic Problem Solving, and High-Performance Web Apps.
 - 💬 **Ask me about:** Android Accessibility Services, Kotlin Coroutines, Machine Learning Models, and Pathfinding Algorithms.
@@ -105,6 +109,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🌐 [**Personal Portfolio**](https://github.com/Rajkumar-Porandla/raj-kumar-portfolio) <br/> 🌐 [**Live Site**](https://raj-kumar-portfolio-main.vercel.app) | Responsive developer portfolio showcasing AI/ML, Android, and Web projects. | `HTML5` `CSS3` `JavaScript` `Vercel` |
 | 🎯 [**FocusDrop**](https://github.com/Rajkumar-Porandla/FocusDrop) | Android app that blocks YouTube Shorts & Instagram Reels via Accessibility Service + Local VPN. | `Kotlin` `Android SDK` `Hilt` `DataStore` |
 | ⚡ [**QuickShare**](https://github.com/Rajkumar-Porandla/QuickShare) <br/> 🌐 [**Live App**](https://dexpop.vercel.app) | Instant, lightweight peer text & file sharing web platform. | `JavaScript` `Node.js` `Express` `Vercel` |
 | 🗺️ [**GMaps Pathfinding Visualizer**](https://github.com/Rajkumar-Porandla/gmaps-pathfinding-visualizer) | Interactive pathfinding algorithm visualizer plotted over real-world Google Maps coordinates. | `TypeScript` `React` `Google Maps API` |
@@ -115,6 +120,14 @@
 ---
 
 ### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/Rajkumar-Porandla/Rajkumar-Porandla/main/github-metrics.svg" alt="Metrics" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkumar-Porandla&theme=radical" alt="GitHub Profile Details" />
@@ -132,12 +145,12 @@
 ### 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [in/raj-kumar-porandla3025](https://www.linkedin.com/in/raj-kumar-porandla3025/)
+- 🌐 **Portfolio:** [raj-kumar-portfolio-main.vercel.app](https://raj-kumar-portfolio-main.vercel.app)
 - 📩 **Email:** [rajkumarporandla07@gmail.com](mailto:rajkumarporandla07@gmail.com)
 - 🎬 **Instagram:** [@rkcreates07](https://instagram.com/rkcreates07)
 - 🐙 **GitHub:** [@Rajkumar-Porandla](https://github.com/Rajkumar-Porandla)
 
 ---
-
 
 <div align="center">
   <sub>Designed & built with 💙 by Rajkumar Porandla</sub>
